@@ -6,19 +6,19 @@
               <About>He is a simple guy. Doing search engine project using java. Ayush knows java. Ayush also knows                Machine larning  (ML) and Deep Learning. Ayush is doing his               B.Tech from IIIT Bhubaneswar, odisha. Ayush is also trying to get a decent job . He is pursuing Computer Engineering.He is from                           Kota,Rajasthan.</About>   
         </Student>    
        <Student id="2">
-             <Name>Rishabh Raj</Name>
+             <Name>Kushal</Name>
              <Age>21</Age>
-             <About>He is a simple guy. Done web development project. Rishabh knows java. Rishabh also knows                       website testing and security. Rishabh has done internship from CDAC Silchar. Rishabh is doing his B.Tech                   from NIT Silchar Assam. Rishabh is trying to get a decent job from NIT Silchar. He is pursuing                                    Electronics and communication Engineering ECE. He is from bihar.He is a coder.</About>
+             <About>He is a Dancing Man. Done web development project. Kushal knows java. Kushal also knows                       website testing and security. Kushal has done internship from Delhi. Kushal is doing his B.Tech                   from IIIT Bhubaneswar. Kushal is trying to get a decent job from IIIT Bhubaneswar. He is pursuing                                    Computer Engineering. He is from Hyderabad.He is a coder.</About>
         </Student>
        <Student id="3">
-             <Name>Rajat singh</Name>
+             <Name>Abhishek Thakur</Name>
              <Age>21</Age>
-             <About>He is a simple guy. Done web development project. Rajat knows java. Rajat also knows                                 machine Learning. Rajat has done internship from CDAC Silchar. Rajat is doing his B.Tech from NIT Silchar              Assam. Rajat is trying to get a decent job from NIT Silchar. He is pursuing Electronics and communication              Engineering ECE. He is from UP. He is a coder.</About>
+             <About>He is a simple guy. Done web development project. Abhishek knows java. Abhishek also knows                                 machine Learning. Abhishek has done internship from Internshala. Abhishek is doing his B.Tech from IIIT Bhubaneswar              Odisha. Abhishek is trying to get a decent job from IIIT Bhubaneswar. He is pursuing Electronics and communication              Engineering ECE. He is from UP. He is a coder.</About>
         </Student>
        <Student id="4">
              <Name>Atul Mishra</Name>
              <Age>20</Age>
-              <About>Done Machine learning project using open CV  ML. Atul knows java.Atul is also known as Mishra                Jee. Atul also knows  Machine larning  (ML) and Deep Learning. Atul has done internship from CDAC                        Pune. Atul is doing his B.Tech from NIT Silchar Assam. Atul is trying to get a decent job from NIT Silchar.                  He is pursuing Electronics and communication Engineering ECE.He is from UP.</About>
+              <About>Done Machine learning project using open CV  ML. Atul knows java.Atul is also known as Mishra                jee. Atul also knows  Machine larning  (ML) and Deep Learning. Atul has done internship from CDAC                        Pune. Atul is doing his B.Tech from IIIT Bhubaneswar. Atul is trying to get a decent job from IIIT BHUBANESWAR.                  He is pursuing Electronics and communication Engineering ECE.He is from UP.</About>
         </Student>
        <Student id="5">
              <Name>Vivek Kumar</Name>
@@ -38,7 +38,7 @@
        <Student id="8">
              <Name>Himanshu Mishra </Name>
              <Age>22</Age>
-              <About>He is a talented guy. Done java library management project .Himanshu is also known as Hema.               Hema knows java. Hema knows core electronics and communication subjects. Hema has done GATE class               from madeeasy delhi. Hema is doing his  B.Tech from NIT Silchar Assam. Hema is preparing for GATE ECE                2020. Hema is also trying to get a decent job  from NIT Silchar. He is pursuing Electronics and                                    communication Engineering ECE.He is from UP.He is dedicated to gate. Gate is his passion.</About>   
+              <About>He is a talented guy. Done java library management project .Himanshu is also known as Hema.               Hema knows java. Hema knows core electronics and communication subjects. Hema has done GATE class               from madeeasy delhi. Hema is doing his  B.Tech from NIT Silchar Assam. Hema is preparing for GATE ECE                2020. abhi is also trying to get a decent job  from IIIT Bhubaneswar. He is pursuing Electronics and                                    communication Engineering ECE.He is from UP.He is dedicated to gate. Gate is his passion.</About>   
         </Student>
        <Student id="9">
              <Name>Pranav</Name>
